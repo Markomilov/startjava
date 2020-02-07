@@ -16,5 +16,6 @@ public class Variable {
 		System.out.println(memorys);
 		System.out.println(z);
 		System.out.println(yes);
+		
 	}
 }
